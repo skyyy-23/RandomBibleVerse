@@ -1,0 +1,17 @@
+@media (max-width:1000px){
+    .overflow{
+        margin-bottom: 10px;
+        max-height: 86%;
+    }
+    .hero{
+        width: 85%;
+        height: 100%;
+    }
+    .wrapper-navbar{
+        align-items: end;
+    }
+    button{
+        padding: 8px 16px;
+        width: fit-content;
+    }
+}
